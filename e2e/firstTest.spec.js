@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+
 describe('Counter', () => {
   beforeEach(async () => {
     await device.reloadReactNative();
